@@ -1,0 +1,2 @@
+key,nsg_key,name,priority,direction,access,protocol,source_port_range,destination_port_range,source_address_prefix,destination_address_prefix,create
+allow_admin_ssh,hub_nva,Allow-Admin-SSH,110,Inbound,Allow,Tcp,*,22,admin_source_cidr,*,true

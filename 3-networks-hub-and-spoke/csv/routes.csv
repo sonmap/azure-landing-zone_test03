@@ -1,0 +1,2 @@
+key,subscription_key,resource_group_key,route_table_name,subnet_key,route_name,address_prefix,next_hop_type,next_hop_in_ip_address,create,purpose
+spoke_aks_default_to_hub_nva,dev,dev,rt-land03-spoke-dev-002-aks,spoke_aks,default-to-hub-nva,<ADMIN_PUBLIC_IP>/32,VirtualAppliance,10.10.0.4,false,Send AKS outbound traffic to hub NVA

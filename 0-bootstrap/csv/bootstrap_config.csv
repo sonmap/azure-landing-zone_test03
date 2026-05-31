@@ -1,0 +1,2 @@
+key,platform_subscription_id,location,prefix,owner,cost_center,expiry_date,environment,purpose,random_suffix_length,storage_container_access_type,create
+default,<SUBSCRIPTION_ID>,koreacentral,land03,son,lab,2026-05-31,dev,azure-landing-zone,6,private,true

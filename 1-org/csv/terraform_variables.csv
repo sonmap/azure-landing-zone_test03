@@ -1,0 +1,6 @@
+name,value
+platform_subscription_id,<SUBSCRIPTION_ID>
+dev_subscription_id,<DEV_SUBSCRIPTION_ID>
+prefix,land03
+expiry_date,2026-05-31
+budget_contact_emails,"[""you@example.com""]"

@@ -140,7 +140,7 @@ Example:
 
 ```csv
 platform_subscription_id,dev_subscription_id,prefix
-18fbfa69-3481-4395-845e-d3f7d4583562,18fbfa69-3481-4395-845e-d3f7d4583562,land03
+<SUBSCRIPTION_ID>,<SUBSCRIPTION_ID>,land03
 ```
 
 ## Important Lab Settings

@@ -1,0 +1,2 @@
+key,platform_subscription_id,dev_subscription_id,prefix,environment,purpose,owner,cost_center,expiry_date,admin_source_cidr,vm_admin_username,vm_admin_password,virtual_appliance_next_hop_type,create
+default,<SUBSCRIPTION_ID>,<SUBSCRIPTION_ID>,land03,network,hub-and-spoke,son,lab,2026-06-30,<ADMIN_PUBLIC_IP>/32,azureuser,REPLACE_WITH_SECURE_PASSWORD,VirtualAppliance,true

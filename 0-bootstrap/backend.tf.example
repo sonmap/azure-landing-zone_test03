@@ -1,0 +1,9 @@
+terraform {
+  backend "azurerm" {
+    resource_group_name  = "rg-land03-tfstate"
+    storage_account_name = "replace_with_output_storage_account_name"
+    container_name       = "tfstate"
+    key                  = "stage-name.tfstate"
+    use_azuread_auth     = true
+  }
+}

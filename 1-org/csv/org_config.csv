@@ -1,0 +1,2 @@
+key,platform_subscription_id,dev_subscription_id,prefix,expiry_date,budget_contact_emails,create
+default,<SUBSCRIPTION_ID>,<SUBSCRIPTION_ID>,land03,2026-06-30,owner@example.com,true

@@ -1,0 +1,2 @@
+key,resource_group_name,location,storage_account_prefix,container_name,account_tier,account_replication_type,min_tls_version,allow_nested_items_to_be_public,shared_access_key_enabled,create
+tfstate,rg-land03-tfstate,koreacentral,stland03tf,tfstate,Standard,LRS,TLS1_2,false,false,true

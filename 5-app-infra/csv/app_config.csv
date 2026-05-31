@@ -1,0 +1,2 @@
+key,dev_subscription_id,location,prefix,environment,purpose,owner,cost_center,expiry_date,vm_admin_username,vm_admin_password,enable_vm,enable_aks,enable_ai_foundry,enable_openai_deployment,openai_deployment_name,openai_model_format,openai_model_name,openai_model_version,random_suffix_length,create
+default,<SUBSCRIPTION_ID>,koreacentral,land03,app-infra,private-vm-aks-ai,son,lab,2026-06-30,azureuser,REPLACE_WITH_SECURE_PASSWORD,true,true,true,false,gpt-4o-mini,OpenAI,gpt-4o-mini,2024-07-18,6,true

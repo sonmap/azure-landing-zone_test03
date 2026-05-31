@@ -1,0 +1,5 @@
+key,subscription_key,resource_group_key,name,address_space,location,create,purpose
+hub,platform,hub,vnet-land03-hub-krc-001,10.10.0.0/16,koreacentral,true,Hub VNet with public entry and NVA
+spoke_dev_01,dev,dev,vnet-land03-spoke-dev-001,10.20.0.0/16,koreacentral,true,Private VM spoke
+spoke_dev_02,dev,dev,vnet-land03-spoke-dev-002,10.21.0.0/16,koreacentral,true,Private AKS spoke
+spoke_dev_03,dev,dev,vnet-land03-spoke-ai-dev-001,10.22.0.0/16,koreacentral,true,Private AI Foundry spoke

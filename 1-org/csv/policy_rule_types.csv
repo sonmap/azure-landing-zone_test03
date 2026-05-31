@@ -1,0 +1,7 @@
+key,policy_key,condition_group,field,equals,create
+deny_public_ip,deny_public_ip_in_dev,single,Microsoft.Network/publicIPAddresses,Microsoft.Network/publicIPAddresses,true
+deny_azure_firewall,deny_expensive_network,anyOf,Microsoft.Network/azureFirewalls,Microsoft.Network/azureFirewalls,true
+deny_bastion,deny_expensive_network,anyOf,Microsoft.Network/bastionHosts,Microsoft.Network/bastionHosts,true
+deny_nat_gateway,deny_expensive_network,anyOf,Microsoft.Network/natGateways,Microsoft.Network/natGateways,true
+deny_vpn_gateway,deny_expensive_network,anyOf,Microsoft.Network/virtualNetworkGateways,Microsoft.Network/virtualNetworkGateways,true
+deny_app_gateway,deny_expensive_network,anyOf,Microsoft.Network/applicationGateways,Microsoft.Network/applicationGateways,true

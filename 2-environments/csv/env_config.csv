@@ -1,0 +1,2 @@
+key,platform_subscription_id,dev_subscription_id,prefix,environment,purpose,owner,cost_center,expiry_date,create
+default,<SUBSCRIPTION_ID>,<SUBSCRIPTION_ID>,land03,environment-baseline,department-environment-separation,son,lab,2026-06-30,true

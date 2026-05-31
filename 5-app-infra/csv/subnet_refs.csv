@@ -1,0 +1,4 @@
+key,name,virtual_network_name,resource_group_key,create
+vm,snet-vm,vnet-land03-spoke-dev-001,dev,true
+aks,snet-aks,vnet-land03-spoke-dev-002,dev,true
+private_endpoints,snet-private-endpoints,vnet-land03-spoke-ai-dev-001,dev,true

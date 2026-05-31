@@ -1,0 +1,16 @@
+name,value
+dev_subscription_id,<DEV_SUBSCRIPTION_ID>
+location,koreacentral
+prefix,land03
+owner,son
+cost_center,lab
+expiry_date,2026-05-31
+environment,dev
+purpose,azure-landing-zone
+vm_admin_username,azureuser
+vm_admin_password,REPLACE_WITH_SECURE_PASSWORD
+random_suffix_length,6
+openai_deployment_name,gpt-4o-mini
+openai_model_format,OpenAI
+openai_model_name,gpt-4o-mini
+openai_model_version,2024-07-18

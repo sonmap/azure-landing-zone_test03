@@ -1,0 +1,14 @@
+name,value
+platform_subscription_id,<SUBSCRIPTION_ID>
+dev_subscription_id,<DEV_SUBSCRIPTION_ID>
+location,koreacentral
+prefix,land03
+owner,son
+cost_center,lab
+expiry_date,2026-05-31
+environment,dev
+purpose,azure-landing-zone
+admin_source_cidr,125.180.25.185/32
+vm_admin_username,azureuser
+vm_admin_password,REPLACE_WITH_SECURE_PASSWORD
+virtual_appliance_next_hop_type,VirtualAppliance

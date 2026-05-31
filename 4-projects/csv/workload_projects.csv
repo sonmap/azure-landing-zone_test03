@@ -1,0 +1,4 @@
+key,resource_group_key,resource_group_name,workload_type,spoke,create
+vm_dev_01,dev,rg-land03-dev-workloads,vm,spoke_dev_01,true
+aks_dev_02,dev,rg-land03-dev-workloads,aks,spoke_dev_02,true
+ai_dev_03,dev,rg-land03-dev-workloads,ai_foundry,spoke_dev_03,true

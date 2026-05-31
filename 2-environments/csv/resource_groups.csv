@@ -1,0 +1,3 @@
+key,subscription_key,name,location,workload,create,purpose
+hub,platform,rg-land03-hub-network,koreacentral,platform-hub,true,Hub network resource group
+dev,dev,rg-land03-dev-workloads,koreacentral,dev-spokes,true,Dev workload resource group

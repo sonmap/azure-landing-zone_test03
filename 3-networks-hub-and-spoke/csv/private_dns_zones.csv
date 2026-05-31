@@ -1,0 +1,5 @@
+key,name,subscription_key,resource_group_key,create
+blob,privatelink.blob.core.windows.net,platform,hub,true
+vault,privatelink.vaultcore.azure.net,platform,hub,true
+aml_api,privatelink.api.azureml.ms,platform,hub,true
+notebooks,privatelink.notebooks.azure.net,platform,hub,true

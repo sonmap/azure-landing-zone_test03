@@ -1,0 +1,10 @@
+key,group_key,role_definition_name,scope_type,scope_key,create
+platform_admin_subscription,platform_admin,Owner,subscription,platform,true
+security_auditor_platform,security_auditor,Reader,subscription,platform,true
+security_auditor_dev,security_auditor,Reader,subscription,dev,true
+finance_dev_contributor,finance_dev_contributor,Contributor,resource_group,finance_dev,true
+finance_qa_contributor,finance_qa_contributor,Contributor,resource_group,finance_qa,true
+finance_prd_reader,finance_prd_reader,Reader,resource_group,finance_prd,true
+hr_dev_contributor,hr_dev_contributor,Contributor,resource_group,hr_dev,true
+hr_qa_contributor,hr_qa_contributor,Contributor,resource_group,hr_qa,true
+hr_prd_reader,hr_prd_reader,Reader,resource_group,hr_prd,true

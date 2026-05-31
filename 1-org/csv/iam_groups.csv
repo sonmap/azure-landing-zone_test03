@@ -1,0 +1,11 @@
+key,department,environment,role,display_name,description,create
+platform_admin,platform,platform,admin,grp-land03-platform-admin,Landing zone platform administrators,true
+security_auditor,security,all,auditor,grp-land03-security-auditor,Central security audit access,true
+finance_dev_contributor,finance,dev,contributor,grp-land03-finance-dev-contributor,Finance dev workload contributors,true
+finance_qa_contributor,finance,qa,contributor,grp-land03-finance-qa-contributor,Finance QA workload contributors,true
+finance_prd_reader,finance,prd,reader,grp-land03-finance-prd-reader,Finance production readers,true
+finance_prd_approver,finance,prd,approver,grp-land03-finance-prd-approver,Finance production approvers,true
+hr_dev_contributor,hr,dev,contributor,grp-land03-hr-dev-contributor,HR dev workload contributors,true
+hr_qa_contributor,hr,qa,contributor,grp-land03-hr-qa-contributor,HR QA workload contributors,true
+hr_prd_reader,hr,prd,reader,grp-land03-hr-prd-reader,HR production readers,true
+hr_prd_approver,hr,prd,approver,grp-land03-hr-prd-approver,HR production approvers,true
