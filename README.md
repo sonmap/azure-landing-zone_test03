@@ -1,5 +1,8 @@
 # Azure Landing Zone Test03
 
+Korean guide: [README.ko.md](README.ko.md)
+
+
 Azure Landing Zone Test03 is a Terraform-based Azure lab foundation. It creates a staged landing-zone model with bootstrap state resources, subscription-level guardrails, environment resource groups, hub-and-spoke networking, workload boundaries, and application infrastructure such as VM, private AKS, Azure OpenAI, Azure AI Foundry, Storage, Key Vault, and Private Endpoint.
 
 This README is written as a deployment runbook. Follow the stages in order.
