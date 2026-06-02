@@ -1,4 +1,4 @@
-# Azure Landing Zone Test03 한국어 가이드
+# Azure Landing Zone Test03  
 
 이 저장소는 Terraform으로 Azure Landing Zone 실습 환경을 단계별로 배포하는 프로젝트입니다. Bootstrap 상태 저장소, 구독 수준 정책, 리소스 그룹, Hub-Spoke 네트워크, VM, Private AKS, Azure OpenAI, Azure AI Foundry, Storage, Key Vault, Private Endpoint를 순서대로 구성합니다.
 
